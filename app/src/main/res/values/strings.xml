@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImplicitIntents</string>
+    <string name="trigger">Fire Intent</string>
+
+    <string name="usage">Select from the drop down menu, when you click on the button an appropriate uri will be created and used to launch an activity.</string>
+    
+</resources>

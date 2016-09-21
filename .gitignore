@@ -1,0 +1,32 @@
+# PMC Last updated 2016-09-09
+# generic .gitignore for android studio projects
+
+# import to android studio from other
+import-summary.txt
+# android studio files that are specific to hosting OS
+*.iml
+*.iws
+# gradle files
+.gradle/
+build/
+# Local config file (sdk path etc)
+local.properties
+# Intellij IDEA (see https://intellij-support.jetbrains.com/entries/23393067)
+.idea/workspace.xml
+.idea/libraries
+captures
+
+# editor temp files
+*.swp
+*.tmp
+
+# OS X nonsense
+.DS_Store
+# Windoze nonsense
+Thumbs.db
+
+# eclipse files
+bin/
+gen/
+# svn files
+.svn/
